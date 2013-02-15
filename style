@@ -1,0 +1,49 @@
+.hr_1 {visibility: hidden;}
+
+.f_blanco {background-color: white;}
+.f_negro {background-color: black;}
+.f_naranjo {background-color: orange;}
+.f_rojo {background-color: red;}
+.f_azul {background-color: blue;}
+
+
+.t_blanco {color: white;}
+.t_negro {color: black;}
+.t_naranjo {color: orange;}
+.t_rojo {color: red;}
+.t_azul {color: blue;}
+
+.padd_5px {padding: 5px;}
+.padd_10px {padding: 10px;}
+.padd_15px {padding: 15px;}
+.padd_20px {padding: 20px;}
+.padd_25px {padding: 25px;}
+.padd_30px {padding: 30px;}
+.padd_35px {padding: 35px;}
+.padd_40px {padding: 40px;}
+
+.radius0px {
+  -webkit-border-radius: 0px;
+	   -moz-border-radius: 0px;
+			border-radius: 0px;
+}
+.radius2px {
+	-webkit-border-radius: 2px;
+	   -moz-border-radius: 2px;
+			border-radius: 2px;
+}
+.radius4px {
+	-webkit-border-radius: 4px;
+	   -moz-border-radius: 4px;
+			border-radius: 4px;
+}
+.radius7px {
+	-webkit-border-radius: 7px;
+	   -moz-border-radius: 7px;
+			border-radius: 7px;
+}
+.radius10px {
+	-webkit-border-radius: 10px;
+	   -moz-border-radius: 10px;
+			border-radius: 10px;
+}
